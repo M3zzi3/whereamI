@@ -160,6 +160,7 @@
 		ADE628221B24D7D90061F1DF /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = LiquidGroup;
 				TargetAttributes = {
@@ -413,6 +414,7 @@
 				ADE6284B1B24D7D90061F1DF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		ADE6284C1B24D7D90061F1DF /* Build configuration list for PBXNativeTarget "Where Am ITests" */ = {
 			isa = XCConfigurationList;
@@ -421,6 +423,7 @@
 				ADE6284E1B24D7D90061F1DF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
